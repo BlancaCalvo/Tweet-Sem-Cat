@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="latin1"?>
+<corpus>
+<tweet id="2151161552">
+	<sentence>
+		<v verb="ajuda" token_id="0" sense="1">
+			<sn arg="arg1">
+				<word word="a" token_id="1"/>
+				<word word="mantenir" token_id="2"/>
+				<word word="els" token_id="3"/>
+				<word word="negocis" token_id="4"/>
+				<word word="oberts" token_id="5"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="a" token_id="6"/>
+				<word word="mantenir" token_id="7"/>
+				<word word="els" token_id="8"/>
+				<word word="llocs" token_id="9"/>
+				<word word="de" token_id="10"/>
+				<word word="treball" token_id="11"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="a" token_id="12"/>
+				<word word="omplir" token_id="13"/>
+				<word word="de" token_id="14"/>
+				<word word="vida" token_id="15"/>
+				<word word="la" token_id="16"/>
+				<word word="ciutat" token_id="17"/>
+			</sn>
+		</v>
+		<v verb="mantenir" token_id="2" sense="1">
+			<sn arg="arg1">
+				<word word="els" token_id="3"/>
+				<word word="negocis" token_id="4"/>
+				<word word="oberts" token_id="5"/>
+			</sn>
+		</v>
+		<v verb="mantenir" token_id="7" sense="1">
+			<sn arg="arg1">
+				<word word="els" token_id="8"/>
+				<word word="llocs" token_id="9"/>
+				<word word="de" token_id="10"/>
+				<word word="treball" token_id="11"/>
+			</sn>
+		</v>	
+		<v verb="omplir" token_id="13" sense="1">
+			<sn arg="arg1">
+				<word word="la" token_id="16"/>
+				<word word="ciutat" token_id="17"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="de" token_id="14"/>
+				<word word="vida" token_id="15"/>
+			</sn>
+		</v>	
+	</sentence>
+	<sentence>
+		<v verb="vine" token_id="19" sense="2">
+			<sn arg="arg4">
+				<word word="al" token_id="20"/>
+				<word word="centre" token_id="21"/>
+			</sn>	
+		</v>	
+		<v verb="compra" token_id="23" sense="1">
+			<sn arg="argM">
+				<word word="al" token_id="24"/>
+				<word word="cor" token_id="25"/>
+				<word word="de" token_id="26"/>
+				<word word="la" token_id="27"/>
+				<word word="ciutat" token_id="28"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="fes" token_id="30" sense="1">
+			<sn arg="arg1">
+				<word word="Barcelona" token_id="31"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="403284133" problem="NV"/>
+<tweet id="158698790">
+	<sentence>
+		<v verb="és" token_id="1" sense="1">
+			<sn arg="arg1">
+				<word word="L'api" token_id="0"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="producte" token_id="2"/>
+				<word word="de" token_id="3"/>
+				<word word="temporada" token_id="4"/>
+				<word word="tot" token_id="5"/>
+				<word word="l'hivern" token_id="6"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="sabies" token_id="7" sense="1">
+			<sn arg="arg1">
+				<word word="que" token_id="8"/>
+				<word word="té" token_id="9"/>
+				<word word="la" token_id="10"/>
+				<word word="curiositat" token_id="11"/>
+				<word word="de" token_id="12"/>
+				<word word="treure" token_id="13"/>
+				<word word="més" token_id="14"/>
+				<word word="calories" token_id="15"/>
+				<word word="de" token_id="16"/>
+				<word word="les" token_id="17"/>
+				<word word="que" token_id="18"/>
+				<word word="aporta" token_id="19"/>
+				<word word="quan" token_id="20"/>
+				<word word="es" token_id="21"/>
+				<word word="menja" token_id="22"/>
+			</sn>
+		</v>
+		<v verb="té" token_id="9" sense="1">
+			<sn arg="arg1">
+				<word word="que" token_id="8"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="la" token_id="10"/>
+				<word word="curiositat" token_id="11"/>
+				<word word="de" token_id="12"/>
+				<word word="treure" token_id="13"/>
+				<word word="més" token_id="14"/>
+				<word word="calories" token_id="15"/>
+				<word word="de" token_id="16"/>
+				<word word="les" token_id="17"/>
+				<word word="que" token_id="18"/>
+				<word word="aporta" token_id="19"/>
+				<word word="quan" token_id="20"/>
+				<word word="es" token_id="21"/>
+				<word word="menja" token_id="22"/>
+			</sn>
+		</v>
+		<v verb="treure" token_id="13" sense="1">
+			<sn arg="arg1">
+				<word word="més" token_id="14"/>
+				<word word="calories" token_id="15"/>
+				<word word="de" token_id="16"/>
+				<word word="les" token_id="17"/>
+				<word word="que" token_id="18"/>
+				<word word="aporta" token_id="19"/>
+				<word word="quan" token_id="20"/>
+				<word word="es" token_id="21"/>
+				<word word="menja" token_id="22"/>
+			</sn>
+		</v>
+		<v verb="aporta" token_id="19" sense="1">
+			<sn arg="arg0">
+				<word word="que" token_id="18"/>
+			</sn>
+			<sn arg="argM">
+				<word word="quan" token_id="20"/>
+				<word word="es" token_id="21"/>
+				<word word="menja" token_id="22"/>
+			</sn>
+		</v>
+		<v verb="menja" token_id="22" sense="1">
+			<sn arg="arg1">
+				<word word="es" token_id="21"/>
+			</sn>
+		</v>	
+	</sentence>
+</tweet>
+<tweet id="2929707725">
+	<sentence>
+		<v verb="està" token_id="1" sense="1">
+			<sn arg="arg1">
+				<word word="el" token_id="4"/>
+				<word word="nou" token_id="5"/>
+				<word word="servei" token_id="6"/>
+				<word word="dassessorament" token_id="7"/>
+				<word word="per" token_id="8"/>
+				<word word="a" token_id="9"/>
+				<word word="entitats" token_id="10"/>
+				<word word="sense" token_id="11"/>
+				<word word="ànim" token_id="12"/>
+				<word word="de" token_id="13"/>
+				<word word="lucre" token_id="14"/>
+				<word word="Gestionat" token_id="15"/>
+				<word word="per" token_id="16"/>
+				<word word="l'USER" token_id="17"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="en" token_id="2"/>
+				<word word="marxa" token_id="3"/>
+			</sn>
+			<sn arg="argM">
+				<word word="Ja" token_id="0"/>
+			</sn>
+		</v>
+		<v verb="gestionat" token_id="15" sense="1">
+			<sn arg="arg0">
+				<word word="per" token_id="16"/>
+				<word word="l'USER" token_id="17"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="el" token_id="4"/>
+				<word word="nou" token_id="5"/>
+				<word word="servei" token_id="6"/>
+				<word word="dassessorament" token_id="7"/>
+				<word word="per" token_id="8"/>
+				<word word="a" token_id="9"/>
+				<word word="entitats" token_id="10"/>
+				<word word="sense" token_id="11"/>
+				<word word="ànim" token_id="12"/>
+				<word word="de" token_id="13"/>
+				<word word="lucre" token_id="14"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="és" token_id="19" sense="1">
+			<sn arg="arg2">
+				<word word="una" token_id="20"/>
+				<word word="eina" token_id="21"/>
+				<word word="gratuïta" token_id="22"/>
+				<word word="i" token_id="23"/>
+				<word word="individualitzada" token_id="24"/>
+				<word word="per" token_id="25"/>
+				<word word="rebre" token_id="26"/>
+				<word word="suport" token_id="27"/>
+				<word word="jurídic" token_id="28"/>
+				<word word="," token_id="29"/>
+				<word word="econòmic" token_id="30"/>
+				<word word="o" token_id="31"/>
+				<word word="laboral" token_id="32"/>
+			</sn>
+		</v>
+		<v verb="rebre" token_id="26" sense="1">
+			<sn arg="arg1">
+				<word word="suport" token_id="27"/>
+				<word word="jurídic" token_id="28"/>
+				<word word="," token_id="29"/>
+				<word word="econòmic" token_id="30"/>
+				<word word="o" token_id="31"/>
+				<word word="laboral" token_id="32"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="cal" token_id="37" sense="1">
+			<sn arg="arg1">
+				<word word="omplir" token_id="38"/>
+				<word word="el" token_id="39"/>
+				<word word="formulariURLURL" token_id="40"/>
+			</sn>
+		</v>
+		<v verb="omplir" token_id="38" sense="1">
+			<sn arg="arg1">
+				<word word="el" token_id="39"/>
+				<word word="formulariURLURL" token_id="40"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="4506100648" problem="NV"/>
+<tweet id="959440457116848128">
+	<sentence>
+		<v verb="estimem" token_id="0" sense="1">
+			<sn arg="arg1">
+				<word word="el" token_id="1"/>
+				<word word="barçaaaaa" token_id="2"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="1009136281400610816" problem="NV"/>
+<tweet id="375085056">
+	<sentence>
+		<v verb="pot" token_id="2" sense="1">
+			<sn arg="arg0">
+				<word word="Algú" token_id="0"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="em" token_id="1"/>
+				<word word="explicar" token_id="3"/>
+				<word word="per" token_id="4"/>
+				<word word="què" token_id="5"/>
+				<word word="hi" token_id="6"/>
+				<word word="ha" token_id="7"/>
+				<word word="un" token_id="8"/>
+				<word word="modulor" token_id="9"/>
+				<word word="de" token_id="10"/>
+				<word word="Le" token_id="11"/>
+				<word word="Corbusier" token_id="12"/>
+				<word word="en" token_id="13"/>
+				<word word="aquesta" token_id="14"/>
+				<word word="mitjanera" token_id="15"/>
+				<word word="de" token_id="16"/>
+				<word word="Travessera" token_id="17"/>
+				<word word="de" token_id="18"/>
+				<word word="Gràcia" token_id="19"/>
+			</sn><v verb="explicar" token_id="3" sense="1"/>
+			<sn arg="arg1">
+				<word word="per" token_id="4"/>
+				<word word="què" token_id="5"/>
+				<word word="hi" token_id="6"/>
+				<word word="ha" token_id="7"/>
+				<word word="un" token_id="8"/>
+				<word word="modulor" token_id="9"/>
+				<word word="de" token_id="10"/>
+				<word word="Le" token_id="11"/>
+				<word word="Corbusier" token_id="12"/>
+				<word word="en" token_id="13"/>
+				<word word="aquesta" token_id="14"/>
+				<word word="mitjanera" token_id="15"/>
+				<word word="de" token_id="16"/>
+				<word word="Travessera" token_id="17"/>
+				<word word="de" token_id="18"/>
+				<word word="Gràcia" token_id="19"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="em" token_id="1"/>
+			</sn>
+		</v>
+		<v verb="ha" token_id="7" sense="1">
+			<sn arg="arg1">
+				<word word="un" token_id="8"/>
+				<word word="modulor" token_id="9"/>
+				<word word="de" token_id="10"/>
+				<word word="Le" token_id="11"/>
+				<word word="Corbusier" token_id="12"/>
+			</sn>
+			<sn arg="argM">
+				<word word="en" token_id="13"/>
+				<word word="aquesta" token_id="14"/>
+				<word word="mitjanera" token_id="15"/>
+				<word word="de" token_id="16"/>
+				<word word="Travessera" token_id="17"/>
+				<word word="de" token_id="18"/>
+				<word word="Gràcia" token_id="19"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="viu" token_id="24" sense="3">
+			<sn arg="arg1">
+				<word word="algun" token_id="25"/>
+				<word word="arquitecte" token_id="26"/>
+				<word word="freak" token_id="27"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="Per" token_id="22"/>
+				<word word="aquí" token_id="23"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="porto" token_id="29" sense="4">
+			<sn arg="arg1">
+				<word word="anys" token_id="30"/>
+			</sn>
+			<sn arg="argM">
+				<word word="preguntant-mho" token_id="31"/>
+			</sn>
+		</v>
+		<v verb="preguntant-mho" token_id="31" sense="sense1"/>
+		<v verb="necessito" token_id="32" sense="1">
+			<sn arg="arg1">
+				<word word="saber-ho" token_id="33"/>
+			</sn>
+		</v>
+		<v verb="saber-ho" token_id="33" sense="1"/>
+	</sentence>
+</tweet>
+<tweet id="479992743" problem="OL"/>
+<tweet id="193176134">
+	<sentence>
+		<v verb="col·loca" token_id="3" sense="1">
+			<sn arg="arg0">
+				<word word="USER" token_id="4"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="la" token_id="2"/>
+			</sn>
+			<sn arg="argM">
+				<word word="Com" token_id="1"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="1083875574769172480" problem="OL"/>
+<tweet id="147243818">
+	<sentence>
+		<v verb="juga" token_id="9" sense="3">
+			<sn arg="arg1">
+				<word word="El" token_id="0"/>
+				<word word="derbi" token_id="1"/>
+				<word word="entre" token_id="2"/>
+				<word word="la" token_id="3"/>
+				<word word="USER" token_id="4"/>
+				<word word="i" token_id="5"/>
+				<word word="el" token_id="6"/>
+				<word word="USER" token_id="7"/>
+			</sn>
+			<sn arg="argM">
+				<word word="a" token_id="10"/>
+				<word word="USER" token_id="11"/>
+				<word word="URL" token_id="12"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="334944923" problem="OL"/>
+<tweet id="227110567">
+	<sentence>
+		<v verb="irromp" token_id="7" sense="1">
+			<sn arg="arg1">
+				<word word="el" token_id="0"/>
+				<word word="geògraf" token_id="1"/>
+				<word word="i" token_id="2"/>
+				<word word="científic" token_id="3"/>
+				<word word="MARTÍ" token_id="4"/>
+				<word word="BOADA" token_id="5"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="en" token_id="8"/>
+				<word word="la" token_id="9"/>
+				<word word="poesia" token_id="10"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="870222789101453313" problem="NV"/>
+<tweet id="1292075262453133313" problem="NV"/>
+<tweet id="110514221">
+	<sentence>
+		<v verb="reclamen" token_id="3" sense="1">
+			<sn arg="arg0">
+				<word word="Les" token_id="0"/>
+				<word word="entitats" token_id="1"/>
+				<word word="socials" token_id="2"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="una" token_id="4"/>
+				<word word="resposta" token_id="5"/>
+				<word word="clara" token_id="6"/>
+				<word word="a" token_id="7"/>
+				<word word="la" token_id="8"/>
+				<word word="crisi" token_id="9"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="pensi" token_id="14" sense="1">
+			<sn arg="arg0">
+				<word word="ningú" token_id="13"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="que" token_id="15"/>
+				<word word="la" token_id="16"/>
+				<word word="vacuna" token_id="17"/>
+				<word word="és" token_id="18"/>
+				<word word="l'antídot" token_id="19"/>
+				<word word="a" token_id="20"/>
+				<word word="la" token_id="21"/>
+				<word word="pobresa" token_id="22"/>
+			</sn>
+		</v>
+		<v verb="és" token_id="18" sense="1">
+			<sn arg="arg1">
+				<word word="la" token_id="16"/>
+				<word word="vacuna" token_id="17"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="l'antídot" token_id="19"/>
+				<word word="a" token_id="20"/>
+				<word word="la" token_id="21"/>
+				<word word="pobresa" token_id="22"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="constaten" token_id="31" sense="1">
+			<sn arg="arg0">
+				<word word="Arrels" token_id="25"/>
+				<word word="," token_id="26"/>
+				<word word="Càritas" token_id="27"/>
+				<word word="o" token_id="28"/>
+				<word word="Creu" token_id="29"/>
+				<word word="Roja" token_id="30"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="l'increment" token_id="32"/>
+				<word word="de" token_id="33"/>
+				<word word="necessitats" token_id="34"/>
+				<word word="vitals" token_id="35"/>
+				<word word="per" token_id="36"/>
+				<word word="a" token_id="37"/>
+				<word word="moltes" token_id="38"/>
+				<word word="persones" token_id="39"/></sn>
+				<sn arg="argM">
+					<word word="durant" token_id="40"/>
+					<word word="la" token_id="41"/>
+					<word word="pandèmia" token_id="42"/>
+				</sn>
+			</v>
+		</sentence>
+	</tweet>
+<tweet id="1265556377705070597">
+	<sentence>
+		<v verb="esperant" token_id="0" sense="3">
+			<sn arg="arg1">
+				<word word="que" token_id="1"/>
+				<word word="ens" token_id="2"/>
+				<word word="convideu" token_id="3"/>
+				<word word="als" token_id="4"/>
+				<word word="vostres" token_id="5"/>
+				<word word="actes" token_id="6"/>
+				<word word="del" token_id="7"/>
+				<word word="8" token_id="8"/>
+				<word word="de" token_id="9"/>
+				<word word="març" token_id="10"/>
+			</sn>
+		</v>
+		<v verb="convideu" token_id="3" sense="1">
+			<sn arg="arg1">
+				<word word="ens" token_id="2"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="als" token_id="4"/>
+				<word word="vostres" token_id="5"/>
+				<word word="actes" token_id="6"/>
+				<word word="del" token_id="7"/>
+				<word word="8" token_id="8"/>
+				<word word="de" token_id="9"/>
+				<word word="març" token_id="10"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="3343845251" problem="NV"/>
+<tweet id="246552968">
+	<sentence>
+		<v verb="llegiu" token_id="5" sense="1">
+			<sn arg="arg0">
+				<word word="Gent" token_id="0"/>
+				<word word="de" token_id="1"/>
+				<word word="Tàrrega" token_id="3"/>
+			</sn>
+			<sn arg="arg1">
+				<word word="aquestes" token_id="6"/>
+				<word word="meravelles" token_id="7"/>
+				<word word="de" token_id="8"/>
+				<word word="la" token_id="9"/>
+				<word word="revista" token_id="10"/>
+				<word word="Crònica" token_id="11"/>
+				<word word="Targarina" token_id="12"/>
+				<word word="de" token_id="13"/>
+				<word word="1933" token_id="14"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="327384176">
+	<sentence>
+		<v verb="agrada" token_id="5" sense="1">
+			<sn arg="arg1">
+				<word word="la" token_id="6"/>
+				<word word="muntanya" token_id="7"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="A" token_id="0"/>
+				<word word="la" token_id="1"/>
+				<word word="mare" token_id="2"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="és" token_id="9" sense="1">
+			<sn arg="arg2">
+				<word word="de" token_id="11"/>
+				<word word="passejar" token_id="12"/>
+				<word word="pel" token_id="13"/>
+				<word word="centre" token_id="14"/>
+				<word word="comercial" token_id="15"/>
+				<word word="i" token_id="16"/>
+				<word word="veure" token_id="17"/>
+				<word word="les" token_id="18"/>
+				<word word="tendes" token_id="19"/>
+			</sn>
+		</v>
+		<v verb="passejar" token_id="12" sense="1">
+			<sn arg="argM">
+				<word word="pel" token_id="13"/>
+				<word word="centre" token_id="14"/>
+				<word word="comercial" token_id="15"/>
+			</sn>
+		</v>
+		<v verb="veure" token_id="17" sense="1">
+			<sn arg="arg1">
+				<word word="les" token_id="18"/>
+				<word word="tendes" token_id="19"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="portat" token_id="23" sense="1">
+			<sn arg="arg1">
+				<word word="l'he" token_id="22"/>
+			</sn>
+			<sn arg="arg2">
+				<word word="allí" token_id="24"/>
+			</sn>
+			<sn arg="argM">
+				<word word="a" token_id="25"/>
+				<word word="passar" token_id="26"/>
+				<word word="el" token_id="27"/>
+				<word word="matí" token_id="28"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="està" token_id="31" sense="1">
+			<sn arg="arg2">
+				<word word="de" token_id="32"/>
+				<word word="baixa" token_id="33"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="diu" token_id="34" sense="1">
+			<sn arg="arg1">
+				<word word="que" token_id="35"/>
+				<word word="s'avorreix" token_id="36"/>
+			</sn>
+		</v>
+		<v verb="s'avorreix" token_id="36" sense="1"/>
+	</sentence>
+	<sentence>
+		<v verb="dit" token_id="43" sense="1">
+			<sn arg="arg1">
+				<word word="que" token_id="44"/>
+				<word word="vinguera" token_id="45"/>
+				<word word="a" token_id="46"/>
+				<word word="pasturar" token_id="47"/>
+				<word word="i" token_id="48"/>
+				<word word="no" token_id="49"/>
+				<word word="s'avorriria" token_id="50"/>
+			</sn><sn arg="arg2">
+			<word word="li" token_id="41"/>
+		</sn>
+	</v>
+	<v verb="vinguera" token_id="45" sense="2">
+		<sn arg="arg1">
+			<word word="que" token_id="44"/>
+		</sn>
+		<sn arg="arg4">
+			<word word="a" token_id="46"/>
+			<word word="pasturar" token_id="47"/>
+		</sn>
+	</v>
+	<v verb="s'avorriria" token_id="50" sense="1"/>
+</sentence>
+<sentence>
+	<v verb="tingut" token_id="53" sense="1">
+		<sn arg="arg2">
+			<word word="la" token_id="54"/>
+			<word word="millor" token_id="55"/>
+			<word word="visita" token_id="56"/>
+			<word word="del" token_id="57"/>
+			<word word="món" token_id="58"/>
+		</sn>
+	</v>
+</sentence>
+</tweet>
+<tweet id="946589068707749889" problem="OL"/>
+<tweet id="263571055" problem="NV"/>
+<tweet id="998458326039126016">
+	<sentence>
+		<v verb="som" token_id="0" sense="1">
+			<sn arg="arg2">
+				<word word="sostenibles" token_id="1"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="vetllen" token_id="9" sense="2">
+			<sn arg="arg1">
+				<word word="pel" token_id="10"/>
+				<word word="planeta" token_id="11"/>
+			</sn>
+			<sn arg="argM">
+				<word word="A" token_id="5"/>
+				<word word="l'USER" token_id="6"/>
+			</sn>
+			<sn arg="argM">
+				<word word="cada" token_id="7"/>
+				<word word="dia" token_id="8"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="reciclen" token_id="13" sense="1"/>
+	</sentence>
+	<sentence>
+		<v verb="cuiden" token_id="15" sense="1">
+			<sn arg="arg1">
+				<word word="de" token_id="16"/>
+				<word word="l'hort" token_id="17"/>
+			</sn>
+		</v>
+	</sentence>
+	<sentence>
+		<v verb="treballen" token_id="26" sense="1">
+			<sn arg="argM">
+				<word word="des" token_id="20"/>
+				<word word="de" token_id="21"/>
+				<word word="totes" token_id="22"/>
+				<word word="les" token_id="23"/>
+				<word word="àrees" token_id="24"/>
+			</sn>
+			<sn arg="argM">
+				<word word="per" token_id="27"/>
+				<word word="a" token_id="28"/>
+				<word word="fer" token_id="29"/>
+				<word word="un" token_id="30"/>
+				<word word="món" token_id="31"/>
+				<word word="millor" token_id="32"/>
+			</sn>
+		</v>
+	</sentence>
+</tweet>
+<tweet id="943080831677018113"><sentence><v verb="apostem" token_id="3" sense="1"><sn arg="arg1"><word word="per" token_id="4"/><word word="una" token_id="5"/><word word="mobilitat" token_id="6"/><word word="sostenible" token_id="7"/></sn><sn arg="argM"><word word="A" token_id="0"/><word word="Autos" token_id="1"/><word word="Castellbisbal" token_id="2"/></sn></v></sentence><sentence><v verb="comptem" token_id="13" sense="1"><sn arg="arg1"><word word="que" token_id="12"/></sn><sn arg="arg2"><word word="amb" token_id="14"/><word word="una" token_id="15"/><word word="àmplia" token_id="16"/><word word="flota" token_id="17"/><word word="de" token_id="18"/><word word="vehicles" token_id="19"/></sn><sn arg="argM"><word word="dintre" token_id="20"/><word word="de" token_id="21"/><word word="la" token_id="22"/><word word="normativa" token_id="23"/><word word="Euro6" token_id="24"/></sn></v></sentence></tweet>
+<tweet id="202783074"><sentence><v verb="critica" token_id="8" sense="1"><sn arg="arg0"><word word="que" token_id="6"/></sn><sn arg="arg1"><word word="el" token_id="7"/></sn></v></sentence><sentence><v verb="podeu" token_id="15" sense="1"><sn arg="arg0"><word word="que" token_id="14"/></sn><sn arg="arg1"><word word="votar" token_id="16"/></sn></v><v verb="votar" token_id="16" sense="1"/><v verb="feu-nos" token_id="18" sense="18"><sn arg="argL"><word word="sentir" token_id="19"/></sn><sn arg="argM"><word word="orgullosos" token_id="20"/><word word="del" token_id="21"/><word word="nostre" token_id="22"/><word word="club" token_id="23"/></sn><sn arg="argM"><word word="un" token_id="24"/><word word="altre" token_id="25"/><word word="cop" token_id="26"/></sn></v></sentence></tweet>
+<tweet id="161803647"><sentence><v verb="arriba" token_id="7" sense="1"><sn arg="arg1"><word word="Dones" token_id="14"/><word word="i" token_id="15"/><word word="silenci" token_id="16"/></sn><sn arg="arg4"><word word="als" token_id="8"/><word word="teatres" token_id="9"/><word word="de" token_id="10"/><word word="lesFranqueses" token_id="12"/></sn><sn arg="argM"><word word="Aquest" token_id="0"/><word word="dissabte" token_id="1"/><word word="," token_id="2"/><word word="de" token_id="4"/><word word="març" token_id="5"/></sn></v></sentence><sentence><v verb="serà" token_id="19" sense="2"><sn arg="arg2"><word word="al" token_id="24"/><word word="Teatre" token_id="25"/><word word="Auditori" token_id="26"/><word word="de" token_id="27"/><word word="Bellavista" token_id="28"/></sn><sn arg="argM"><word word="a" token_id="20"/><word word="les" token_id="21"/><word word="20" token_id="22"/><word word="h" token_id="23"/></sn></v></sentence><sentence><v verb="compra" token_id="30" sense="1"><sn arg="arg1"><word word="les" token_id="31"/><word word="teves" token_id="32"/><word word="entrades" token_id="33"/></sn><sn arg="argM"><word word="a" token_id="34"/><word word="Entrpolis" token_id="35"/><word word="URLURL" token_id="36"/></sn></v></sentence></tweet>
+<tweet id="1610986760"><sentence><v verb="inaugura" token_id="7" sense="1"><sn arg="arg0"><word word="Jairo" token_id="5"/><word word="Arreola" token_id="6"/></sn><sn arg="arg1"><word word="el" token_id="8"/><word word="marcador" token_id="9"/></sn></v></sentence></tweet>
+<tweet id="129815466"><sentence><v verb="començat" token_id="2" sense="3"><sn arg="arg1"><word word="la" token_id="3"/><word word="segona" token_id="4"/><word word="edició" token_id="5"/><word word="del" token_id="6"/><word word="taller" token_id="7"/><word word="``" token_id="8"/><word word="Clubs" token_id="9"/><word word="de" token_id="10"/><word word="lectura" token_id="11"/><word word="''" token_id="12"/><word word="que" token_id="13"/><word word="imparteix" token_id="14"/><word word="USER" token_id="15"/></sn></v><v verb="imparteix" token_id="14" sense="1"><sn arg="arg0"><word word="USER" token_id="15"/></sn><sn arg="arg1"><word word="que" token_id="13"/></sn></v></sentence><sentence><v verb="som" token_id="16" sense="1"><sn arg="arg2"><word word="més" token_id="17"/><word word="de" token_id="18"/><word word="35" token_id="19"/><word word="bibliotecaris" token_id="20"/><word word="i" token_id="21"/><word word="bibliotecàries" token_id="22"/></sn><sn arg="argM"><word word="connectats" token_id="23"/><word word="al" token_id="24"/><word word="taller" token_id="25"/></sn></v><v verb="connectats" token_id="23" sense="1"><sn arg="arg0"><word word="més" token_id="17"/><word word="de" token_id="18"/><word word="35" token_id="19"/><word word="bibliotecaris" token_id="20"/><word word="i" token_id="21"/><word word="bibliotecàries" token_id="22"/></sn><sn arg="arg1"><word word="al" token_id="24"/><word word="taller" token_id="25"/></sn></v></sentence></tweet>
+<tweet id="1149290799542231042" problem="OL"/>
+<tweet id="1210159531617071104"><sentence><v verb="moria" token_id="10" sense="1"><sn arg="arg1"><word word="Titus" token_id="11"/><word word="Fulvus" token_id="12"/><word word="Aelius" token_id="13"/><word word="Hadrianus" token_id="14"/><word word="Antoninus" token_id="15"/><word word="Augustus" token_id="16"/><word word="Pius" token_id="17"/><word word="," token_id="18"/><word word="i" token_id="19"/><word word="pare" token_id="20"/><word word="adoptiu" token_id="21"/><word word="de" token_id="22"/><word word="Marc" token_id="23"/><word word="Aureli" token_id="24"/></sn><sn arg="argM"><word word="El" token_id="0"/><word word="7" token_id="1"/><word word="de" token_id="2"/><word word="març" token_id="3"/><word word="," token_id="4"/><word word="però" token_id="5"/><word word="de" token_id="6"/><word word="161" token_id="7"/><word word="dc" token_id="8"/></sn></v></sentence></tweet>
+<tweet id="840321681197522944" problem="NV"/>
+<tweet id="4497215715" problem="OL"/>
+<tweet id="22683937"><sentence><v verb="és" token_id="3" sense="1"><sn arg="arg1"><word word="El" token_id="1"/><word word="llenguatge" token_id="2"/></sn><sn arg="arg2"><word word="laventura" token_id="4"/><word word="més" token_id="5"/><word word="gran" token_id="6"/><word word="de" token_id="7"/><word word="la" token_id="8"/><word word="meva" token_id="9"/><word word="vida" token_id="10"/></sn></v></sentence><sentence><v verb="és" token_id="17" sense="1"><sn arg="arg1"><word word="la" token_id="13"/><word word="cerca" token_id="14"/><word word="de" token_id="15"/><word word="paraules" token_id="16"/></sn><sn arg="arg2"><word word="una" token_id="18"/><word word="cosa" token_id="19"/><word word="que" token_id="20"/><word word="em" token_id="21"/><word word="produeix" token_id="22"/><word word="molt" token_id="23"/><word word="de" token_id="24"/><word word="plaer" token_id="25"/></sn></v><v verb="produeix" token_id="22" sense="1"><sn arg="arg0"><word word="que" token_id="20"/></sn><sn arg="arg1"><word word="molt" token_id="23"/><word word="de" token_id="24"/><word word="plaer" token_id="25"/></sn></v></sentence><sentence><v verb="escriu" token_id="33" sense="2"><sn arg="arg0"><word word="USER" token_id="34"/></sn><sn arg="arg2"><word word="a" token_id="35"/><word word="USER" token_id="36"/></sn></v></sentence></tweet>
+<tweet id="297327329"><sentence><v verb="gaudeix" token_id="5" sense="3"><sn arg="arg1"><word word="de" token_id="6"/><word word="la" token_id="7"/><word word="millor" token_id="8"/><word word="gastronomia" token_id="9"/></sn><sn arg="argM"><word word="Amb" token_id="0"/><word word="l'arribada" token_id="1"/><word word="del" token_id="2"/><word word="bon" token_id="3"/><word word="temps" token_id="4"/></sn><sn arg="argM"><word word="vora" token_id="10"/><word word="el" token_id="11"/><word word="mar" token_id="12"/><word word="a" token_id="13"/><word word="qualsevol" token_id="14"/><word word="dels" token_id="15"/><word word="nostres" token_id="16"/><word word="45" token_id="17"/><word word="ports" token_id="18"/><word word="esportius" token_id="19"/></sn></v></sentence><sentence><v verb="passant" token_id="31" sense="2"><sn arg="arg2"><word word="per" token_id="32"/><word word="la" token_id="33"/><word word="CostaBarcelona" token_id="35"/></sn><sn arg="arg4"><word word="fins" token_id="37"/><word word="a" token_id="38"/><word word="la" token_id="39"/><word word="CostaBrava" token_id="41"/><word word="portsdecatalunya" token_id="43"/><word word="VitaminaBlava" token_id="47"/></sn></v></sentence></tweet>
+<tweet id="94290979"><sentence><v verb="t'agraden" token_id="0" sense="1"><sn arg="arg1"><word word="la" token_id="1"/><word word="Publicitat" token_id="3"/><word word="les" token_id="5"/><word word="RelacionsPúbliques" token_id="7"/><word word="i" token_id="8"/><word word="el" token_id="9"/><word word="Màrqueting" token_id="11"/></sn></v></sentence><sentence><v verb="entra" token_id="13" sense="1"><sn arg="arg2"><word word="en" token_id="14"/><word word="aquest" token_id="15"/><word word="apassionant" token_id="16"/><word word="món" token_id="17"/></sn><sn arg="argM"><word word="de" token_id="18"/><word word="la" token_id="19"/><word word="mà" token_id="20"/><word word="de" token_id="21"/><word word="USER" token_id="22"/></sn></v></sentence><sentence><v verb="aprèn" token_id="24" sense="2"><sn arg="argM"><word word="dels" token_id="25"/><word word="millors" token_id="26"/></sn><sn arg="argM"><word word="amb" token_id="27"/><word word="classes" token_id="28"/><word word="magistrals" token_id="29"/><word word="Seminaris" token_id="32"/><word word="i" token_id="33"/><word word="pràctiques" token_id="34"/></sn></v></sentence></tweet>
+<tweet id="46630111" problem="NV"/>
+<tweet id="55874758">
+    <sentence>
+        <v verb="disposa" token_id="2" sense="1">
+        <sn arg="arg1">
+            <word word="Sant" token_id="0"/>
+            <word word="Fruitós" token_id="1"/>
+        </sn>
+        <sn arg="arg2">
+                <word word="de" token_id="3"/>
+                <word word="dos" token_id="4"/>
+                <word word="nous" token_id="5"/>
+                <word word="aparcaments" token_id="6"/>
+                <word word="«" token_id="7"/>
+                <word word="Stop" token_id="8"/>
+                <word word="&amp;" token_id="9"/>
+                <word word="amp" token_id="10"/>
+                <word word=";" token_id="11"/>
+                <word word="Go" token_id="12"/>
+                <word word="»" token_id="13"/>
+                
+            </sn>
+        </v> 
+    </sentence>
+</tweet>
+<tweet id="2356390343" problem="OL"/>
+<tweet id="2209672308">
+    <sentence>
+        <v verb="sona" token_id="4" sense="1">
+            <sn arg="argM">
+                <word word="Així" token_id="3"/>
+            </sn>
+            <sn arg="arg1">
+                <word word="'Bosque" token_id="5"/>
+                <word word="'" token_id="6"/>
+                <word word="," token_id="7"/>
+                <word word="el" token_id="8"/>
+                <word word="nou" token_id="9"/>
+                <word word="senzill" token_id="10"/>
+                <word word="de" token_id="11"/>
+                <word word="Laura" token_id="12"/>
+                <word word="Esparza" token_id="13"/>
+                <word word="i" token_id="14"/>
+                <word word="Carlos" token_id="15"/>
+                <word word="Esteban" token_id="16"/>
+            </sn>
+        </v>
+    </sentence>
+</tweet>
+<tweet id="822836936">
+    <sentence>
+        <v verb="comprar" token_id="3" sense="1">
+            <sn arg="arg1">
+                <word word="un" token_id="4"/>
+                <word word="billet" token_id="5"/>
+                <word word="a" token_id="6"/>
+                <word word="USER" token_id="7"/>
+            </sn>
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="queda" token_id="9" sense="3">
+            <sn arg="arg1">
+                <word word="un" token_id="10"/>
+                <word word="vol" token_id="11"/>
+                <word word="avui" token_id="12"/>
+                <word word="vespre" token_id="13"/>
+            </sn>
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="estam" token_id="16" sense="2">
+            <sn arg="argM">
+                <word word="a" token_id="17"/>
+                <word word="temps" token_id="18"/>
+            </sn>
+        </v>
+    </sentence>
+    </tweet>
+<tweet id="4654836328">
+    <sentence>
+        <v verb="imaginau" token_id="12" sense="1">
+            <sn arg="arg0">
+                <word word="Us" token_id="11"/>
+            </sn>
+            <sn arg="arg1">
+                <word word="que" token_id="13"/>
+                <word word="hi" token_id="14"/>
+                <word word="fessin" token_id="15"/>
+                <word word="un" token_id="16"/>
+                <word word="centre" token_id="17"/>
+                <word word="cultural" token_id="18"/>
+                <word word="d'art" token_id="19"/>
+                <word word="d'avantguarda" token_id="20"/>
+                <word word="atractiu" token_id="21"/>
+                <word word="," token_id="22"/>
+                <word word="modern" token_id="23"/>
+                <word word="," token_id="24"/>
+                <word word="obert" token_id="25"/>
+                <word word="a" token_id="26"/>
+                <word word="tothom" token_id="27"/>
+                <word word="i" token_id="28"/>
+                <word word="gratuït" token_id="29"/>
+            </sn>
+        </v>
+        <v verb="fessin" token_id="15" sense="2">
+        <sn arg="arg1">
+            <word word="un" token_id="16"/>
+            <word word="centre" token_id="17"/>
+            <word word="cultural" token_id="18"/>
+            <word word="d'art" token_id="19"/>
+            <word word="d'avantguarda" token_id="20"/>
+            <word word="atractiu" token_id="21"/>
+            <word word="," token_id="22"/>
+            <word word="modern" token_id="23"/>
+            <word word="," token_id="24"/>
+            <word word="obert" token_id="25"/>
+            <word word="a" token_id="26"/>
+            <word word="tothom" token_id="27"/>
+            <word word="i" token_id="28"/>
+            <word word="gratuït" token_id="29"/>
+        </sn>
+        <sn arg="argM">
+            <word word="hi" token_id="14"/>
+        </sn>
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="escoltau" token_id="38" sense="1">
+            <sn arg="arg1">
+                <word word="Escoltau" token_id="38"/>
+                <word word="José" token_id="39"/>
+                <word word="Ángel" token_id="40"/>
+                <word word="Suárez" token_id="41"/>
+                <word word="," token_id="42"/>
+                <word word="arquitecte" token_id="43"/>
+                <word word="de" token_id="44"/>
+                <word word="la" token_id="45"/>
+                <word word="discoteca" token_id="46"/>
+            </sn>
+        </v>
+    </sentence>
+</tweet>
+<tweet id="119345460">
+    <sentence>
+        <v verb="va" token_id="8" sense="2">
+            <sn arg="arg1">
+                <word word="el" token_id="5"/>
+                <word word="camí" token_id="6"/>
+            </sn>
+            <sn arg="arg3">
+                <word word="de" token_id="9"/>
+                <word word="les" token_id="10"/>
+                <word word="fonts" token_id="11"/>
+                <word word="de" token_id="12"/>
+                <word word="l'Onyar" token_id="13"/>
+            </sn>
+            <sn arg="arg4">
+                <word word="cap" token_id="14"/>
+                <word word="a" token_id="15"/>
+                <word word="Sant" token_id="16"/>
+                <word word="Martí" token_id="17"/>
+                <word word="Sapresa" token_id="18"/>
+            </sn>
+        </v>
+    </sentence>
+</tweet>
+<tweet id="3537340217">
+    <sentence>
+        <v verb="contesta" token_id="8" sense="1">
+            <sn arg="arg0">
+                <word word="Jelinek" token_id="9"/>
+            </sn>
+        </v>
+    </sentence>
+</tweet>
+<tweet id="368836852" problem="NV"/>
+<tweet id="1284217296567836672">
+    <sentence>
+        <v verb="votat" token_id="4" sense="1">
+            <sn arg="arg0">
+                <word word="jo" token_id="1"/>
+            </sn>
+            <sn arg="argM">
+                <word word="ja" token_id="2"/>
+            </sn>
+            <sn arg="argM">
+                <word word="en" token_id="5"/>
+                <word word="les" token_id="6"/>
+                <word word="eleccions" token_id="7"/>
+            </sn>
+        </v>
+        <v verb="visca" token_id="16" sense="-"/><v verb="visca" token_id="20" sense="-"/>
+    </sentence>
+</tweet>
+<tweet id="1189139308546002945">
+    <sentence>
+        <v verb="recuperar" token_id="3" sense="1">
+            <sn arg="arg1">
+                <word word="els" token_id="4"/>
+                <word word="esdeveniments" token_id="5"/>
+                <word word="presencials" token_id="6"/>
+            </sn>
+        </v>
+        <v verb="supera" token_id="8" sense="1">
+        <sn arg="arg0">
+            <word word="El" token_id="0"/>
+            <word word="manifest" token_id="1"/>
+            <word word="per" token_id="2"/>
+            <word word="recuperar" token_id="3"/>
+            <word word="els" token_id="4"/>
+            <word word="esdeveniments" token_id="5"/>
+            <word word="presencials" token_id="6"/>
+        </sn>
+        <sn arg="argM">
+            <word word="ja" token_id="7"/>
+        </sn>
+        <sn arg="arg1">
+            <word word="el" token_id="9"/>
+            <word word="miler" token_id="10"/>
+            <word word="de" token_id="11"/>
+            <word word="signatures" token_id="12"/>
+        </sn>
+        
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="és" token_id="17" sense="1">
+            <sn arg="argM">
+                <word word="Encara" token_id="14"/>
+            </sn>
+            <sn arg="argM">
+                <word word="no" token_id="15"/>
+            </sn>
+            <sn arg="argM">
+                <word word="hi" token_id="16"/>
+            </sn>
+            <sn arg="arg1">
+                <word word="la" token_id="18"/>
+                <word word="teva" token_id="19"/>
+            </sn></v>
+    </sentence>
+</tweet>
+<tweet id="289994257">
+    <sentence>
+        <v verb="sembla" token_id="10" sense="1">
+            <sn arg="arg1">
+                <word word="un" token_id="11"/>
+                <word word="dia" token_id="12"/>
+                <word word="perfecte" token_id="13"/>
+                <word word="per" token_id="14"/>
+                <word word="fer" token_id="15"/>
+                <word word="un" token_id="16"/>
+                <word word="cafè" token_id="17"/>
+                <word word="a" token_id="18"/>
+                <word word="la" token_id="19"/>
+                <word word="terrassa" token_id="20"/>
+            </sn>
+            <v verb="fer" token_id="15" sense="34">
+                <sn arg="argL">
+                    <word word="un" token_id="16"/>
+                    <word word="cafè" token_id="17"/>
+                </sn>
+                <sn arg="argM">
+                    <word word="a" token_id="18"/>
+                    <word word="la" token_id="19"/>
+                    <word word="terrassa" token_id="20"/>
+                </sn>
+            </v>
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="vols" token_id="23" sense="1">
+            <sn arg="arg1">
+                <word word="algú" token_id="24"/>
+                <word word="que" token_id="25"/>
+                <word word="t'acompanyi" token_id="26"/>
+                <word word="," token_id="27"/>
+            </sn>
+        </v>
+        <v verb="t'acompanyi" token_id="26" sense="1">
+            <sn arg="arg0">
+                <word word="algú" token_id="24"/>
+            </sn>
+        </v>
+        
+        
+        <v verb="escolta" token_id="28" sense="1">
+        <sn arg="arg1">
+            <word word="el" token_id="29"/>
+            <word word="programa" token_id="30"/>
+        </sn>
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="preparat" token_id="38" sense="1">
+            <sn arg="arg0">
+                <word word="Les" token_id="32"/>
+                <word word="vuit" token_id="33"/>
+                <word word="ràdios" token_id="34"/>
+                <word word="de" token_id="35"/>
+                <word word="USER" token_id="36"/>
+            </sn>
+            <sn arg="arg1">
+                <word word="un" token_id="39"/>
+                <word word="programa" token_id="40"/>
+                <word word="ple" token_id="41"/>
+                <word word="de" token_id="42"/>
+                <word word="novetats" token_id="43"/>
+                <word word="que" token_id="44"/>
+                <word word="passen" token_id="45"/>
+                <word word="pel" token_id="46"/>
+                <word word="Camp" token_id="47"/>
+                <word word="de" token_id="48"/>
+                <word word="Tarragona" token_id="49"/>
+            </sn>
+        </v>
+        <v verb="passen" token_id="45" sense="2">
+        <sn arg="arg0">
+            <word word="novetats" token_id="43"/>
+        </sn>
+        <sn arg="arg2">
+            <word word="Camp" token_id="47"/>
+            <word word="de" token_id="48"/>
+            <word word="Tarragona" token_id="49"/>
+        </sn>
+        </v>
+    </sentence>
+</tweet>
+<tweet id="820730191974662145">
+    <sentence>
+        <v verb="està" token_id="5" sense="1">
+            <sn arg="arg1">
+                <word word="La" token_id="0"/>
+                <word word="Germandat" token_id="1"/>
+                <word word="Sant" token_id="2"/>
+                <word word="Ecce-Homo" token_id="3"/>
+            </sn>
+            <sn arg="argM">
+                <word word="avui" token_id="6"/>
+            </sn>
+            <sn arg="argM">
+                <word word="de" token_id="7"/>
+                <word word="dol" token_id="8"/>
+            </sn>
+        </v>
+        <v verb="deixat" token_id="11" sense="11">
+            <sn arg="arg0">
+                <word word="el" token_id="12"/>
+                <word word="soci" token_id="13"/>
+                <word word="i" token_id="14"/>
+                <word word="amic" token_id="15"/>
+                <word word="Albert" token_id="16"/>
+                <word word="Vallvé" token_id="17"/>
+                <word word="i" token_id="18"/>
+                <word word="Navarro" token_id="19"/>
+            </sn>
+            <sn arg="arg1">
+                <word word="Ens" token_id="9"/>
+            </sn>
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="ser" token_id="34" sense="1">
+            <sn arg="arg1">
+                <word word="Albert" token_id="16"/>
+                <word word="Vallvé" token_id="17"/>
+            </sn>
+            <sn arg="arg2">
+                <word word="el" token_id="35"/>
+                <word word="Banderer" token_id="36"/>
+            </sn>
+            <sn arg="argM">
+                <word word="l'any" token_id="37"/>
+                <word word="2014" token_id="38"/>
+            </sn>
+        </v>
+    </sentence>
+    <sentence>
+        <v verb="estaràs" token_id="43" sense="2">
+        <sn arg="arg1">
+            <word word="Albert" token_id="40"/>
+        </sn>
+        <sn arg="argM">
+            <word word="sempre" token_id="42"/>
+        </sn>
+        <sn arg="argM">
+            <word word="en" token_id="44"/>
+            <word word="el" token_id="45"/>
+            <word word="nostre" token_id="46"/>
+            <word word="record" token_id="47"/>
+            </sn>
+        </v>
+    </sentence>
+</tweet>
+</corpus>
